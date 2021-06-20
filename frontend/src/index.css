@@ -16,6 +16,23 @@ h2 {
 	padding: 0.5rem 0;
 }
 
+a {
+	text-decoration: none;
+}
+
 .rating span {
 	margin: 0.1rem;
+}
+
+.text-orange {
+	color: #eb5e28;
+}
+
+.navbar-brand {
+	font-size: 2rem;
+}
+
+.navbar {
+	padding-top: 0.7rem;
+	padding-bottom: 0.7rem;
 }
