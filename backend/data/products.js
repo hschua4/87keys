@@ -24,7 +24,7 @@ const products = [
 		numReviews: 8,
 	},
 	{
-		name: 'IQUNIX F60-2020 60% Hot-swappable Mechanical Keyboard',
+		name: 'IQUNIX F60-2020 60% Mechanical Keyboard',
 		image: '/images/iqunix.jpg',
 		description:
 			'High quality mechanical keyboard with strong and durable aluminium fuselage. 60% layout offers only the essential keys without compromising on functions.',
@@ -36,7 +36,7 @@ const products = [
 		numReviews: 12,
 	},
 	{
-		name: 'Anne Pro 2',
+		name: 'Anne Pro 2 60% Mechanical Keyboard',
 		image: '/images/annepro.jpg',
 		description:
 			'Programmable 16.8 million RGB backlight supporting full-key static and dynamic lighting RGB customization. Get freedom to change the style as and when you like. Lighting can also be reprogrammed through ObinsLab Starter.',
