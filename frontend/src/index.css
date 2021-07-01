@@ -36,3 +36,35 @@ a {
 	padding-top: 0.7rem;
 	padding-bottom: 0.7rem;
 }
+
+/* Carousel */
+.carousel-item-text,
+.carousel-item-prev,
+.carousel.item-active {
+	display: flex;
+	justify-content: center;
+}
+
+.carousel-caption {
+	position: absolute;
+	top: 0;
+	display: flex;
+	justify-content: center;
+}
+
+.carousel-caption h2 {
+	color: #fff;
+}
+
+.carousel img {
+	display: block;
+	height: 300px;
+	/* padding: 30px; */
+	margin: 80px auto 40px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.carousel a {
+	margin: 0 auto;
+}
